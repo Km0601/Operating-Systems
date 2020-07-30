@@ -2,3 +2,7 @@ Operating systems are like a job. You have the boss, who over sees all of the de
 With a computer you have an operating system that over sees all of the programs and funcution of that computer.
 Operating systems update when their are new versions of software. They help with memory and store files. 
 Operating systems help administer safety to make sure all your content on the computer is safe from virus and hackers.
+How to start an operating system,
+Make sure the computer is pluged in, press the power button
+The computer screen will turn on and start to think. Kind of like when you wake up in the morning.
+The computer automaticly uploads the login screen or your windows screen
