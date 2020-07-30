@@ -6,3 +6,8 @@ How to start an operating system,
 Make sure the computer is pluged in, press the power button
 The computer screen will turn on and start to think. Kind of like when you wake up in the morning.
 The computer automaticly uploads the login screen or your windows screen
+After the computer is up and running you can open programs, files, internet
+When you are ready to shut down your computer/operating system. 
+You will close out all the programs, save files, and close out the internet
+Next go to your start window on the bottom left corner and click the power icon.
+When the power is shutting down you will see a swirl spinning to close down the computer 
